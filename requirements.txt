@@ -1,0 +1,14 @@
+# Web scraping
+selenium==4.15.2
+webdriver-manager==4.0.1
+
+# Data processing & ML
+pandas==2.1.2
+numpy==1.26.1
+scikit-learn==1.3.2
+
+# Recommendation system
+sentence-transformers==2.2.2
+
+# Web app
+streamlit==1.28.1
